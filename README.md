@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.linkedin.com/in/matheus-vitor-a56a2a185/)
 <h1 align="center">Hi 👋, I'm Matheus Vitor Silva</h1>
 <h3 align="center">A passionate frontend developer from Florianópolis/Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/47/f2/36/47f236eb3089c29278b7877e91afb18c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abebematheus&label=Profile%20views&color=0e75b6&style=flat" alt="abebematheus" /> </p>
