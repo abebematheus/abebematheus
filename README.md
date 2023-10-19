@@ -1,4 +1,4 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2042997998421912600/EA3AA8C934A3C652984A574E57A6CA60709D82C6/)](https://www.linkedin.com/in/matheus-vitor-a56a2a185/)
+[![MasterHead](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)](https://www.linkedin.com/in/matheus-vitor-a56a2a185/)
 <h1 align="center">Hi 👋, I'm Matheus Vitor Silva</h1>
 <h3 align="center">A passionate frontend developer from Florianópolis/Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/47/f2/36/47f236eb3089c29278b7877e91afb18c.gif">
