@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)](https://www.linkedin.com/in/matheus-vitor-a56a2a185/)
+[![MasterHead](https://i1.sndcdn.com/visuals-001255450174-ErjM2p-original.jpg)](https://www.linkedin.com/in/matheus-vitor-a56a2a185/)
 <h1 align="center">Hi 👋, I'm Matheus Vitor Silva</h1>
 <h3 align="center">A passionate frontend developer from Florianópolis/Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
