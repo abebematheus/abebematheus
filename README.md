@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Calendrier(Coming soon)
+- 🔭 I’m currently working on Pokedex(Coming soon)
 
 - 🌱 I’m currently learning **Tailwind, React, JavaScript and Node.JS**
 
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with Spotify(Coming soon)
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at [https://www.abebematheus.github.io/link](https://abebematheus.github.io/link/)
 
 - 💬 Ask me about **CSS, HTML and JS**
 
