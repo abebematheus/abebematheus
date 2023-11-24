@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Pokedex(Coming soon)
 
-- 🌱 I’m currently learning **Tailwind, React, JavaScript and Node.JS**
+- 🌱 I’m currently learning  **Tailwind, React, JavaScript and Node.JS**
 
 - 👯 I’m looking to collaborate on Pokedex(Coming soon)
 
